@@ -14,7 +14,11 @@
   <img align="center" alt="Pedro-C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
   <img align="center" alt="Pedro-C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  
+ ![Snake animation](https://github.com/PedroCamaRgoz/PedroCamaRgoz/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
+ 
   
   ##
 
