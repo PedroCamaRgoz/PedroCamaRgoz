@@ -1,4 +1,4 @@
-### Hi there! I'm Pedro👋
+### Hi there! I'm Pedro 🤘
 
 - 🔭 I’m currently working with building management systems
 - 🌱 I’m currently learning pyhon and data structures
