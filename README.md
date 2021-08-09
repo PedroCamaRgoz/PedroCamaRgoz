@@ -24,8 +24,4 @@
   
  </div>
  
- ## Profile visits:
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/PedroCamaRgoz/count.svg"/>
- </p>
  
